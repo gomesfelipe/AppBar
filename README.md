@@ -1,8 +1,5 @@
 Telas
 ----
-
-<img src="http://imgur.com/QayRRTA" border="10" />
-
-![alt tag](https://i.imgur.com/QayRRTA.jpg)
-
+![tela1](https://i.imgur.com/QayRRTA.jpg)
+![tela2](https://i.imgur.com/Wug6Y.jpg)
 
