@@ -1,5 +1,5 @@
 Telas
 ----
 
-<img src="http://imgur.com/a/0bDso" border="10" />
+<img src="http://imgur.com/QayRRTA" border="10" />
 
